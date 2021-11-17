@@ -29,7 +29,7 @@ Implemented a Naive and a Dynamic Programming stereo matching scheme.
 
 **Different measures (SSD vs. SSIM)**
 
-<img src="https://i.ibb.co/dWV1fkZ/ssim.png" width="200" alt="art"><img src="https://i.ibb.co/928RxP9/aloe-dp.png" width="200" alt="books">
+<img src="https://i.ibb.co/dWV1fkZ/ssim.png" width="200" alt="art"> <img src="https://i.ibb.co/928RxP9/aloe-dp.png" width="200" alt="books">
 
 See more images and running times in [examples.ipynb](examples.ipynb)
 
