@@ -5,7 +5,7 @@ Implemented a Naive and a Dynamic Programming stereo matching scheme.
 **Input examples**
 
 <img src="images/art1.png" width="200" alt="art"> <img src="images/books1.png" width="200" alt="books">
-<img src="images/dolls1.png" width="200" alt="dolls"> <img src="images/moebius.png" width="200" alt="reindeer">
+<img src="images/dolls1.png" width="200" alt="dolls"> <img src="images/moebius1.png" width="200" alt="reindeer">
 
 **Ground truth**
 
