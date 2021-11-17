@@ -27,9 +27,9 @@ Implemented a Naive and a Dynamic Programming stereo matching scheme.
 <img src="output/meshlab/art_mesh.png" width="200" alt="art"> <img src="output/meshlab/books_mesh.png" width="200" alt="books">
 <img src="output/meshlab/dolls_mesh.png" width="200" alt="dolls"> <img src="output/meshlab/reindeer_mesh.png" width="200" alt="reindeer">
 
-**Different measures**
+**Different measures (SSD vs. SSIM)**
 
-![SSIM](https://i.ibb.co/dWV1fkZ/ssim.png) ![SSD](https://i.ibb.co/928RxP9/aloe-dp.png)
+<img src="https://i.ibb.co/dWV1fkZ/ssim.png" width="300" alt="art"><br/> <img src="output/meshlab/books_mesh.png" width="300" alt="books">
 
 See more images and running times in [examples.ipynb](examples.ipynb)
 
