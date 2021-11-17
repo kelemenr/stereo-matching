@@ -23,3 +23,5 @@ Implemented a Naive and a Dynamic Programming stereo matching scheme.
 <img src="output/images/dolls_dp.png" width="200" alt="dolls"> <img src="output/images/moebius_dp.png" width="200" alt="reindeer">
 
 **Point clouds**
+<img src="output/pointclouds/art_mesh.png" width="200" alt="art"> <img src="output/pointclouds/books_mesh.png" width="200" alt="books">
+<img src="output/pointclouds/dolls_mesh.png" width="200" alt="dolls"> <img src="output/pointclouds/reindeer_mesh.png" width="200" alt="reindeer">
