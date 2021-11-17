@@ -27,6 +27,9 @@ Implemented a Naive and a Dynamic Programming stereo matching scheme.
 <img src="output/meshlab/art_mesh.png" width="200" alt="art"> <img src="output/meshlab/books_mesh.png" width="200" alt="books">
 <img src="output/meshlab/dolls_mesh.png" width="200" alt="dolls"> <img src="output/meshlab/reindeer_mesh.png" width="200" alt="reindeer">
 
+**Different measures**
+![SSIM](https://ibb.co/vwTgcL9)
+
 See more images and running times in [examples.ipynb](examples.ipynb)
 
 See the algorithms in [stereo/stereo_estimation.py](stereo/stereo_estimation.py)
