@@ -13,10 +13,11 @@ Implemented a Naive and a Dynamic Programming stereo matching scheme.
 <img src="images/dolls1_true.png" width="200" alt="dolls"> <img src="images/reindeer1_true.png" width="200" alt="reindeer">
 
 **Naive disparities**
-<img src="images/art_naive.png" width="200" alt="art"> <img src="images/books_naive.png" width="200" alt="books">
-<img src="images/dolls_naive.png" width="200" alt="dolls"> <img src="images/reindeer_naive.png" width="200" alt="reindeer">
+
+<img src="output/images/art_naive.png" width="200" alt="art"> <img src="output/images/books_naive.png" width="200" alt="books">
+<img src="output/images/dolls_naive.png" width="200" alt="dolls"> <img src="output/images/reindeer_naive.png" width="200" alt="reindeer">
 
 **Dynamic Programming disparities**
-<img src="images/art_dp.png" width="200" alt="art"> <img src="images/books_dp.png" width="200" alt="books">
-<img src="images/dolls_dp.png" width="200" alt="dolls"> <img src="images/reindeer_dp.png" width="200" alt="reindeer">
+<img src="output/images/art_dp.png" width="200" alt="art"> <img src="output/images/books_dp.png" width="200" alt="books">
+<img src="output/images/dolls_dp.png" width="200" alt="dolls"> <img src="output/images/reindeer_dp.png" width="200" alt="reindeer">
 
